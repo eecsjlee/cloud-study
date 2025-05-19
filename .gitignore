@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Node (혹시 future 확장을 위해)
+node_modules/
+npm-debug.log*
+
+# Python (혹시 실습 코드 정리할 경우)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# VSCode settings
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Markdown previews (like typora)
+*.assets/

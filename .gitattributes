@@ -1,0 +1,15 @@
+# 모든 텍스트 파일은 LF (유닉스 스타일) 줄바꿈 사용
+* text=auto eol=lf
+
+# Markdown 파일 UTF-8로 명시
+*.md text eol=lf charset=utf-8
+
+# YAML 파일도 명시
+*.yml text eol=lf charset=utf-8
+*.yaml text eol=lf charset=utf-8
+
+# 쉘 스크립트 (혹시 있을 경우)
+*.sh text eol=lf
+
+# Windows에서 CRLF 방지
+*.bat text eol=crlf
