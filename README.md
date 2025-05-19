@@ -5,10 +5,10 @@ AWS와 Microsoft Azure를 중심으로 클라우드 컴퓨팅에 대해 학습�
 ## Contents
 
 ### AWS
-[AWS 서비스 정리](./aws/aws.md)
+[AWS 서비스 정리](./aws/README.md)
 
 ### Azure
-[Azure 서비스 정리](./azure/azure.md)
+[Azure 서비스 정리](./azure/README.md)
 
 # ☁️ Cloud Study
 
@@ -61,7 +61,6 @@ AWS와 Microsoft Azure를 중심으로 클라우드 컴퓨팅에 대해 학습�
 
 ## 📚 정리된 내용
 
+- [클라우드 용어 정리](./glossary.md)
 - [AWS 서비스 정리](./aws/README.md)
 - [Azure 서비스 정리](./azure/README.md)
-- [클라우드 용어 정리](./glossary.md)
-
